@@ -21,6 +21,3 @@ This project collects, analyzes, and visualizes data on blood donation trends. I
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for improvements.
-
-## License
-MIT License
